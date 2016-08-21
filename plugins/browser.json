@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "net.crystian.cordovaDemo"
+        },
+        "cordova-plugin-barcodescanner": {
+            "PACKAGE_NAME": "net.crystian.cordovaDemo"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "net.crystian.cordovaDemo"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "net.crystian.cordovaDemo"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "net.crystian.cordovaDemo"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "net.crystian.cordovaDemo"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "net.crystian.cordovaDemo"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "net.crystian.cordovaDemo"
+        }
+    },
+    "dependent_plugins": {}
+}
